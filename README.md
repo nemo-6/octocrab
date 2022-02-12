@@ -20,5 +20,3 @@ DB_PASSWORD
 </table>
 Don't worry about DDL generation as it's configured to run at startup if schema does not exist
 following the entities provided in JPA.
-
-Flyway should make sure database versions are stable.
